@@ -1,0 +1,64 @@
+{
+  "data" : 
+  [
+  {
+    "key": "0",
+    "category": "Sur quel terrain ?",
+    "sentences": [
+      "Le jeu de O’Déboulé® (ou Déboulé) peut se jouer sur tout type de sol : terrain de pétanque, terrain végétal, gazon synthétique...",
+      "Dans ses règles, ce jeu s'inspire de la pétanque."
+    ]
+  },
+  {
+    "key": "1",
+    "category": "Mise en place",
+    "sentences": [
+      "L'équipe impaire prend les dés impairs, l'équipe paire prend les dés pairs, chaque joueur prend une paire de dés (2 paires dans le cas des parties à 2 joueurs).",
+      "Tracer un cercle au sol (50 cm de diamètre) et se placer à l’intérieur.",
+      "L'équipe qui commence la partie est tirée au sort, un de ses joueurs prend le déboulé."
+    ]
+  },
+  {
+    "key": "2",
+    "category": "Début d’une manche",
+    "sentences": [
+      "Lancer le déboulé (un petit dé à 6 couleurs) à une distance entre 4 et 8 mètres du cercle.",
+      "Le joueur qui a lancé le déboulé lance son premier dé pour s’en approcher au plus près.",
+      "Un joueur de l'équipe adverse lance alors son premier dé aussi.",
+      "Un joueur de l'équipe la moins proche du déboulé rejoue alors jusqu’à être le plus proche du déboulé ou jusqu’à épuisement de ses dés.",
+      "Attention : si un dé ne tombe pas franchement sur une face, il est alors retiré de la manche."
+    ]
+  },
+  {
+    "key": "3",
+    "category": "Fin d’une manche",
+    "sentences": [
+      "Quand tous les dés ont été joués, l’équipe du dé le plus proche du déboulé remporte la manche.",
+      "Elle conserve le déboulé pour la manche suivante."
+    ]
+  },
+  {
+    "key": "4",
+    "category": "Comptage des points",
+    "sentences": [
+      "Seule l’équipe ayant remporté la manche marque des points. Il y a trois étapes pour comptabiliser les points :",
+      "- Les dés les plus proches du déboulé que les dés adverses et dont la face visible est de la même couleur que la face visible du déboulé : la valeur de la face visible multiplié par 2 est ajoutée aux points",
+      "- Les dés les plus proches du déboulé que les dés adverses et dont la face visible est d’une couleur différente de la face visible du déboulé : la valeur de la face visible est ajoutée aux points",
+      "- Les dés plus éloignés du déboulé que les dés adverses et dont la face visible est de la même couleur que la face visible du déboulé : la valeur de la face visible est ajoutée aux points",
+      "Si aucune équipe n’atteint ou ne dépasse 26 points, une nouvelle manche démarre."
+    ]
+  },
+  {
+    "key": "5",
+    "category": "Fin de la partie",
+    "sentences": [
+      "La première équipe à atteindre 26 points ou plus est déclarée vainqueur de la partie."
+    ]
+  },
+  {
+    "key": "6",
+    "category": "Amusez vous !!!",
+    "sentences": []
+  }
+]
+}

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "odeboulet",
-    "slug": "odeboulet",
+    "name": "odeboulé",
+    "slug": "odeboule",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,13 +18,39 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/ic_launcher_foreground.png",
+        "backgroundImage": "./assets/ic_launcher_background.png"
+      },
+      "package": "com.settek.odeboule"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d21a7a49-9bd9-49b1-81fd-c68180208b57"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/46d1f046-dcbb-4c41-9c77-7f9141b72ee6"
+    },
+    "owner": "settek",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 33,
+            "targetSdkVersion": 33,
+            "buildToolsVersion": "33.0.0"
+          }
+        }
+      ]
+    ]
   }
 }
